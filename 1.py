@@ -1,4 +1,9 @@
-print('Hello Oasis!')
+print('Hello Oasis!!')
 
 
-print('dev0 test again')
+
+print(1)
+
+print(2)
+
+print('end')
