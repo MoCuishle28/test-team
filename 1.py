@@ -1,3 +1,9 @@
-print('Hello Oasis!')
+print('Hello Oasis!!')
 
-print('master')
+
+
+print(1)
+
+print(2)
+
+print('end')
